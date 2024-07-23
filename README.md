@@ -1,1 +1,1 @@
-In this portfolio I display at your perusal all my projects working with data of different kinds.
+This portfolio contains all my projects working with different kinds of data from different sectors, at your perusal.
